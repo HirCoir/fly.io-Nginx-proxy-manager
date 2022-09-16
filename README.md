@@ -45,6 +45,9 @@ Al terminar mostrará un mensaje así, eso quiere decir que se ha desplegado cor
 ![alt text](https://i.ibb.co/ccwX81S/Screenshot-2.jpg)
 
 9. Para acceder a Nginx puede hacerlo desde la IP y el dominio, agregando el puerto 81.
+Los datos se sesión por default son:
+user:admin@example.com
+Password:changeme
 
 ![alt text](https://i.ibb.co/86mLxzm/Screenshot-3.jpg)
 
