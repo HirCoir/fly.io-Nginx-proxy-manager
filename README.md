@@ -41,9 +41,9 @@ pero lo recomendable es tener solo 1GB para poder asignar 1GB a los 3 contenedor
 8. Ejecutamos "fly launch" para desplegar el contenedor de nuesta APP.
 
 
-![alt text](https://i.ibb.co/p2wGpk9/critial-error.jpg)
 
 Finalmente mostrará un mensaje así, eso quiere decir que se ha desplegado correctamente!
+
 A disfrutar!
 
 ![alt text](https://i.ibb.co/ccwX81S/Screenshot-2.jpg)
